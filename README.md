@@ -31,7 +31,11 @@ I'm always looking for the next project that pushes me outside my comfort zone.
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,py,fastapi,aws,gcp,docker,java,postgres,mysql,supabase,redis,react,typescript,git,github,bash,npm,vite,php,ubuntu)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,py,fastapi,aws,gcp,docker,java,postgres,mysql,supabase,redis,react,typescript,git,github,bash,npm,vite,php,linux" />
+  </a>
+</p>
 
 ---
 
