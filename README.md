@@ -1,86 +1,42 @@
 <h1 align="center">Hi 👋, I'm Chan Hao Wen</h1>
-<h3 align="center">Cloud Security & DevSecOps | AWS x6 Certified | Software Engineering @ APU</h3>
+<h3 align="center">Cloud Security Engineer in Progress • AWS x6 Certified • National AI Competition Champion</h3>
 
+<h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/haowenchan9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:haowenchan@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-### 🎯 About Me
+### About Me
 
-- 🎓 Diploma in ICT (Software Engineering) student at **APU/APIIT**, CGPA **3.87**, graduating **March 2027**, on a credit-transfer path to a BSc (Hons) Computer Science — Cyber Security specialisation
-- ☁️ Building toward a **Cloud Security & DevSecOps** career — targeting internships at Malaysian banks, MNCs, and Big 4 firms
-- 🏆 Led team **SentinAI** to **Champion** at the **National AI Competition 2026** (Engineering Track, Sunway University) — RM64,000 Sunway Bursary
-- 🛠️ Shipped a production full-stack loyalty system (React + FastAPI + PostgreSQL) for a live retail client
-- 📡 Currently deepening AWS security skills (VPC Lattice, IAM, incident response) and building hands-on labs
-- 💬 Ask me about AWS, WiFi CSI sensing, or hackathon execution under time pressure
+I'm a Software Engineering student at Asia Pacific University (APU) who enjoys building secure cloud applications and solving real-world problems through hackathons.
 
----
+Over the past year I've built production software for retail businesses, competed in national AI competitions, and earned multiple AWS certifications while working towards becoming a Cloud Security / DevSecOps Engineer.
 
-### ☁️ AWS Certifications
-
-| Certification | Date |
-|---|---|
-| AWS Application Networking Demonstrated | Jul 2026 |
-| AWS Incident Response Demonstrated | Jun 2026 |
-| AWS Agentic AI Demonstrated | Apr 2026 |
-| AWS Serverless Demonstrated | Apr 2026 |
-| AWS Certified AI Practitioner | Jan 2026 |
-| AWS Certified Cloud Practitioner | Jan 2026 |
+I enjoy turning ideas into working products—from backend APIs and cloud infrastructure to AI-powered applications.
 
 ---
 
-### 🧰 Tech Stack
+### Highlights
 
-**Cloud & Infrastructure**
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900">
-  <img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900">
-  <img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900">
-</p>
-
-**Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</p>
-
-**Frameworks & Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</p>
+- 🥇 Champion @ National AI Competition 2026 (Engineering Track)
+- 🥉 3rd Place @ APU Sustainability Hackathon 2026
+- 🛒 Developed a production Loyalty Management System for HONOR Starling Mall
+- ☁️ AWS x6 Certified
+- 🎓 CGPA 3.87
 
 ---
 
-### 🏆 Featured Project
-
-**SentinAI** — WiFi CSI-based fall detection system (no cameras, no wearables)
-Six ESP32-S3 nodes → RandomForest ML model → two-stage impact-then-stillness detection → Firebase/Vercel dashboard with Gemini AI care summaries.
-🥇 Champion, NAIC2026 Engineering Track (Sunway University, Jun 2026)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zghanw&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zghanw&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zghanw&hide_border=true" />
-</p>
+![GitHubCard](https://githubcard.com/zghanw.svg)
 
 ---
 
-<p align="center"><i>Open to Cloud Security / DevSecOps internship opportunities — reach out on LinkedIn!</i></p>
+<p align="center"><i>Open to Cloud Security / DevSecOps internship opportunities, reach out on LinkedIn!</i></p>
