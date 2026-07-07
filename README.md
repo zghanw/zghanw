@@ -8,19 +8,31 @@
 
 ---
 
-### About Me
+### > ABOUT.USER_
 
-I'm driven by challenges.
+```python
+class ChanHaoWen:
+    def __init__(self):
+        self.name = "Chan Hao Wen"
+        self.role = "Cloud Security & DevSecOps Engineer (Aspiring)"
+        self.education = "Software Engineering @ APU"
+        self.location = "Kuala Lumpur, Malaysia 🇲🇾"
+        self.cgpa = 3.87
 
-Hackathons, AWS certifications, production projects, and competitions have become my favorite way to learn because they force me to build under pressure and solve real problems.
-
-Outside the classroom, I enjoy designing cloud-native applications, experimenting with AI, and continuously expanding my knowledge of security and DevSecOps.
-
-I'm always looking for the next project that pushes me outside my comfort zone.
+    def current_focus(self):
+        return {
+            "☁️": "AWS Cloud & Security",
+            "🛡️": "DevSecOps",
+            "🤖": "AI-powered Applications",
+            "🚀": "Building Production Systems",
+            "🏆": "Hackathons & Competitions",
+            "📚": "Continuous Learning"
+        }
+```
 
 ---
 
-### Highlights
+### > USER.HIGHLIGHTS_
 
 - 🥇 Champion @ National AI Competition 2026 (Engineering Track)
 - 🥉 3rd Place @ APU Sustainability Hackathon 2026
@@ -30,7 +42,7 @@ I'm always looking for the next project that pushes me outside my comfort zone.
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">> USER.TOOLBOX_</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,py,fastapi,aws,gcp,docker,java,postgres,mysql,supabase,redis,react,typescript,git,github,bash,npm,vite,php,linux" />
