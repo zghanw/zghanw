@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chan Hao Wen</h1>
-<h3 align="center">Cloud Security Engineer in Progress • AWS x6 Certified • National AI Competition Champion</h3>
+<h3 align="center">Cloud Security Engineer in Progress • AWS x6 Certified • Malaysia's Top 1 in AI Engineering</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
