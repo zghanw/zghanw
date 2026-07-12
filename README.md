@@ -51,4 +51,11 @@ class ChanHaoWen:
 
 ---
 
+<h3 align="left">> USER.STATS_</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zghanw&hide_border=true" />
+</p>
+
+---
+
 <p align="center"><i>Open to Cloud Security / DevSecOps internship opportunities, reach out on LinkedIn!</i></p>
