@@ -45,7 +45,7 @@ class ChanHaoWen:
 <h3 align="left">> USER.TOOLBOX_</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,py,fastapi,aws,gcp,docker,java,postgres,mysql,supabase,redis,react,typescript,git,github,bash,npm,vite,php,linux" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,py,fastapi,aws,gcp,docker,java,postgres,mysql,supabase,redis,react,typescript,git,github,bash,npm,vite,php,kali,linux" />
   </a>
 </p>
 
