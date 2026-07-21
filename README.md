@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chan Hao Wen</h1>
-<h3 align="center">Cloud Security Engineer in Progress • AWS x6 Certified • Malaysia's Top 1 in AI Engineering</h3>
+<h3 align="center">Cloud Security Engineer in Progress • 6x AWS • Malaysia's Top 1 in AI Engineering</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -23,10 +23,10 @@ class ChanHaoWen:
         return {
             "☁️": "AWS Cloud & Security",
             "🛡️": "DevSecOps",
-            "🤖": "AI-powered Applications",
             "🚀": "Building Production Systems",
-            "🏆": "Hackathons & Competitions",
-            "📚": "Continuous Learning"
+            "🏆": "Hackathons & CTFs",
+            "📜": "AWS Certified Solutions Architect – Associate",
+            "📜": "AWS Certified Developer - Associate"
         }
 ```
 
@@ -35,9 +35,9 @@ class ChanHaoWen:
 ### > USER.HIGHLIGHTS_
 
 - 🥇 Champion @ National AI Competition 2026 (Engineering Track)
-- 🥉 3rd Place @ APU Sustainability Hackathon 2026
 - 🛒 Developed a production Loyalty Management System for HONOR Starling Mall
-- ☁️ AWS x6 Certified
+- ☁️ AWS x2 Certified
+- ☁️ AWS x4 Demonstrated
 - 🎓 CGPA 3.87
 
 ---
