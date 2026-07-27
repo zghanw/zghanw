@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chan Hao Wen</h1>
-<h3 align="center">Cloud Security Engineer in Progress • 6x AWS • Malaysia's Top 1 in AI Engineering</h3>
+<h3 align="center">Cloud Security Engineer in Progress • 7x AWS • Malaysia's Top 1 in AI Engineering</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -25,7 +25,7 @@ class ChanHaoWen:
             "🛡️": "DevSecOps",
             "🚀": "Building Production Systems",
             "🏆": "Hackathons & CTFs",
-            "📜": "AWS Certified Solutions Architect – Associate",
+            "📜": "AWS MLOps Demonstrated",
             "📜": "AWS Certified Developer - Associate"
         }
 ```
@@ -36,7 +36,7 @@ class ChanHaoWen:
 
 - 🥇 Champion @ National AI Competition 2026 (Engineering Track)
 - 🛒 Developed a production Loyalty Management System for HONOR Starling Mall
-- ☁️ AWS x2 Certified
+- ☁️ AWS x3 Certified
 - ☁️ AWS x4 Demonstrated
 - 🎓 CGPA 3.87
 
