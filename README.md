@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chan Hao Wen</h1>
-<h3 align="center">Cloud Security Engineer in Progress • 7x AWS • 5x Hackathon Finalist</h3>
+<h3 align="center">Cloud Security Engineer in Progress • 7x AWS • 7x Hackathon Finalist</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -35,6 +35,7 @@ class ChanHaoWen:
 ### > USER.HIGHLIGHTS_
 
 - 🥇 Champion @ National AI Competition 2026 (Engineering Track)
+- 🥇 Champion @ Build Week Hackathon 2026 
 - 🛒 Developed a production Loyalty Management System for HONOR Starling Mall
 - ☁️ AWS x3 Certified
 - ☁️ AWS x4 Demonstrated
