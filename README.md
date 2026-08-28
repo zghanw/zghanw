@@ -21,8 +21,8 @@ class ChanHaoWen:
 
     def current_focus(self):
         return {
-            "☁️": "AWS Cloud & Security",
-            "🛡️": "DevSecOps",
+            "☁️": "Cloud Engineering",
+            "🐧": "Linux",
             "🚀": "Building Production Systems",
             "🏆": "Hackathons & CTFs",
             "📜": "AWS MLOps Demonstrated"
