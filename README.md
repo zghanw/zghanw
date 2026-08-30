@@ -15,7 +15,7 @@ class ChanHaoWen:
     def __init__(self):
         self.name = "Chan Hao Wen"
         self.role = "Cloud Security & DevSecOps Engineer (Aspiring)"
-        self.education = "Software Engineering @ APU"
+        self.education = "Diploma in Software Engineering @ APU"
         self.location = "Kuala Lumpur, Malaysia 🇲🇾"
         self.cgpa = 3.87
 
@@ -25,7 +25,7 @@ class ChanHaoWen:
             "🐧": "Linux",
             "🚀": "Building Production Systems",
             "🏆": "Hackathons & CTFs",
-            "📜": "AWS MLOps Demonstrated"
+            "📜": "AWS Microcredentials"
         }
 ```
 
