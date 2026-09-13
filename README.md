@@ -14,6 +14,7 @@
 class ChanHaoWen:
     def __init__(self):
         self.name = "Chan Hao Wen"
+        self.os = "Fedora KDE Plasma"
         self.role = "Cloud Security & DevSecOps Engineer (Aspiring)"
         self.education = "Diploma in Software Engineering @ APU"
         self.location = "Kuala Lumpur, Malaysia 🇲🇾"
