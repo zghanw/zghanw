@@ -26,6 +26,7 @@ class ChanHaoWen:
             "🐧": "Linux",
             "🚀": "Building Production Systems",
             "🏆": "Hackathons & CTFs",
+            "📜": "AWS Certified AI Business Strategist",
             "📜": "AWS Microcredentials"
         }
 ```
