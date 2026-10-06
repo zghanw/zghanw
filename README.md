@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chan Hao Wen</h1>
-<h3 align="center">Cloud Security Engineer in Progress • 9x AWS • 7x Hackathon Finalist</h3>
+<h3 align="center">Cloud Security Engineer in Progress • 9x AWS • 8x Hackathon Finalist</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
