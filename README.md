@@ -18,7 +18,7 @@ class ChanHaoWen:
         self.role = "Cloud Security & DevSecOps Engineer (Aspiring)"
         self.education = "Diploma in Software Engineering @ APU"
         self.location = "Kuala Lumpur, Malaysia 🇲🇾"
-        self.cgpa = 3.87
+        self.cgpa = 3.9
 
     def current_focus(self):
         return {
